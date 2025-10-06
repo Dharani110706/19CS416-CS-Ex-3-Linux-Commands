@@ -331,7 +331,7 @@ df
 The `find` command is used to search for files in a directory hierarchy.
 
 **Syntax:**
-```bash
+```bash 
 find <directory> -name <file_name>
 ```
 
